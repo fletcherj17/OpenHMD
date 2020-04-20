@@ -17,7 +17,6 @@ option(
 	choices: [
 		'rift',
 		'deepoon',
-		'psvr',
 		'vive',
 		'nolo',
 		'wmr',
